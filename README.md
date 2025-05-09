@@ -13,7 +13,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-- 👋 Olá, sou @Matheus-FelipeSS,
+- 👋 Olá, sou Matheus Felipe!
 - 💻 Estudando desenvolvimento full-stack, criando soluções web completas com front-end e back-end. 
 - 🌱 Aprimorando conhecimentos em React, Node.js, .NET, ASP.NET, PostgreSQL e Prisma. 
 - 💡 Buscando colaborar em projetos full-stack, contribuindo tanto na criação de interfaces quanto no desenvolvimento de APIs.  
