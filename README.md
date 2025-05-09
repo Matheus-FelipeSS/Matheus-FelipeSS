@@ -13,13 +13,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-- 👋 Hi, I’m @Matheus-FelipeSS, a developer passionate about technology and innovation  
-- 💻 I’m learning full-stack development, creating complete web solutions that involve both front-end and back-end  
-- 🌱 I’m currently learning and improving my knowledge in technologies like React, Node.js, .NET, ASP.NET, PostgreSQL, and Prisma  
-- 💡 I’m looking to collaborate on projects involving full-stack development, where I can contribute to both building interactive user interfaces and creating APIs  
-- 📬 You can contact me via email: [matheusf.silveira@hotmail.com](mailto:matheusf.silveira@hotmail.com) or through my LinkedIn: [linkedin.com/in/matheus-felipe-84488026a](https://www.linkedin.com/in/matheus-felipe-84488026a)  
-- 👨‍💻 Pronouns: He/Him  
-- 😄 Fun fact: I love learning new technologies, and in my free time, I enjoy playing strategy games and solving programming challenges
+- 👋 Olá, sou @Matheus-FelipeSS,
+- 💻 Estudando desenvolvimento full-stack, criando soluções web completas com front-end e back-end. 
+- 🌱 Aprimorando conhecimentos em React, Node.js, .NET, ASP.NET, PostgreSQL e Prisma. 
+- 💡 Buscando colaborar em projetos full-stack, contribuindo tanto na criação de interfaces quanto no desenvolvimento de APIs.  
+- 📬 Contato: matheusf.silveira@hotmail.com | LinkedIn: [linkedin.com/in/matheus-felipe-84488026a](https://www.linkedin.com/in/matheus-felipe-84488026a)
 
 <!---
 Matheus-FelipeSS/Matheus-FelipeSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
